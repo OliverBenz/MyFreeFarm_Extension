@@ -1,2 +1,5 @@
-# MyFreeFarm_Extension
-Chrome extension with small scripts for planting different sized crops
+# MyFreeFarm Extension
+Chrome extension with scripts for planting crops of sizes: 
+- 1x1
+- 1x2
+- 2x2
